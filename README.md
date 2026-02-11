@@ -52,3 +52,8 @@ See `backend/config.py` and `.env.example`. Key options:
 - `CHUNK_SIZE` / `CHUNK_OVERLAP` – transcript chunking for RAG.
 - `RAG_RETRIEVE_K` – number of chunks retrieved per question.
 
+## Future add-ons
+
+- Incorporate memory into the Q&A
+- Display video metadata
+- Employ ChromaDB with metadata filtering
