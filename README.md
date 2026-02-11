@@ -10,6 +10,13 @@ Summarize YouTube videos and ask questions about their content using a RAG pipel
 - **Vector store:** [FAISS](https://ai.meta.com/tools/faiss/)
 - **UI:** [Streamlit](https://streamlit.io/)
 
+## Demo
+
+The following session is a summary of the YouTube video on Vector Databases by IBM url = https://www.youtube.com/watch?v=gl1r1XV0SLw
+
+<img width="1426" height="720" alt="YouBot_screenshot" src="https://github.com/user-attachments/assets/b11272bc-2e69-46f6-89c5-1be6f533dcc6" />
+
+
 ## Setup
 
 Create a virtual environment and install dependencies:
