@@ -1,0 +1,20 @@
+# Transcripts
+youtube-transcript-api>=0.6
+
+# LangChain
+langchain>=0.3
+langchain-community>=0.3
+langchain-core>=0.3
+langchain-text-splitters>=0.3
+langchain-huggingface>=0.1
+
+# Hugging Face
+sentence-transformers>=2.2
+transformers>=4.36
+torch>=2.0
+
+# Vector store (FAISS with HNSW index)
+pip install faiss-cpu==1.8.0
+
+# App
+streamlit>=1.28
